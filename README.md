@@ -1,4 +1,4 @@
 # autocheck_test
 Проект по автоматизации проверки тестовых работ для педагогов
 
-# [Ссылка видео демонстрации работы web-приложения] (https://disk.yandex.ru/d/NV_NWcA4KNaYEA)
+# [Ссылка видео демонстрации работы web-приложения](https://disk.yandex.ru/d/NV_NWcA4KNaYEA)
